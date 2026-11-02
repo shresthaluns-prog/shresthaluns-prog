@@ -74,6 +74,9 @@ const luniva = {
 <a href="https://github.com/shresthaluns-prog">
   <img src="https://img.shields.io/badge/GitHub-shresthaluns--prog-F4C2C2?style=for-the-badge&logo=github&logoColor=5c3d3d&labelColor=2e3440" alt="GitHub" />
 </a>
+<a href="https://www.linkedin.com/in/luniva-shrestha/">
+  <img src="https://img.shields.io/badge/LinkedIn-Luniva%20Shrestha-F4C2C2?style=for-the-badge&logo=linkedin&logoColor=5c3d3d&labelColor=2e3440" alt="LinkedIn" />
+</a>
 
 <br/><br/>
 

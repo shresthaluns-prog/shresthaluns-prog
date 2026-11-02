@@ -61,20 +61,7 @@ const luniva = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=shresthaluns-prog&show_icons=true&theme=nord&border_color=F4C2C2&title_color=F4C2C2&icon_color=F4C2C2&text_color=D8DEE9&hide_border=false" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shresthaluns-prog&layout=compact&theme=nord&border_color=F4C2C2&title_color=F4C2C2&text_color=D8DEE9&hide_border=false" alt="Top languages" />
-
-<br/><br/>
-
 <img src="https://streak-stats.demolab.com/?user=shresthaluns-prog&theme=nord&ring=F4C2C2&fire=F4C2C2&currStreakLabel=F4C2C2&sideLabels=F4C2C2&border=F4C2C2" alt="GitHub streak" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=shresthaluns-prog&theme=nord&no-frame=true&no-bg=true&margin-w=15&column=7" alt="GitHub trophies" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shresthaluns-prog&bg_color=2e3440&color=F4C2C2&line=F4C2C2&point=ffffff&area=true&area_color=F4C2C2&hide_border=true" alt="Contribution activity graph" />
 
 </div>
 
